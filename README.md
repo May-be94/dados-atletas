@@ -4,7 +4,7 @@
 
  <h4> Resumo do projeto <h/4>
  
- O projeto consiste em criar uma aplicação que recebe dados de um atleta (nome, idade, peso, altura e notas (foi utilizado a entrada que foi fornecida no próprio exercício), bem como calcular parâmetros e apresentar ao usuário. 
+ O projeto consiste em criar uma aplicação que recebe dados de um atleta (nome, idade, peso, altura e notas (foi utilizado a entrada que fornecida no próprio exercício), bem como calcular parâmetros e apresentar ao usuário. 
 
  <h4> Introdução </h4>
 
